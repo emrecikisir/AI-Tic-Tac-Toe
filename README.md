@@ -42,10 +42,10 @@ Now that you have the project set up, you can run the app locally. There are two
 
 #### Home Screen
 
-To start the game, run the following command:
+To start the game on ios, run the following command:
 
 ```shell
-npm run start
+npm run ios
 ```
 
 This will start the development server, and you can open the app on your device or simulator.
